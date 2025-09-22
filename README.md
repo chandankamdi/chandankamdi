@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Chandan Kamdi
 
 ## 🚀 About Me
 I’m an **innovative and performance-driven Full Stack Developer** with 3+ years of experience building **scalable web applications** using **C#, .NET Core, MVC5, Entity Framework, ADO.NET, and SQL Server**.  
@@ -50,4 +50,4 @@ Git, GitHub, RESTful APIs, Task Automation, Performance Optimization
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chandankamdi)  
-- [Portfolio / Website] (Optional)
+
