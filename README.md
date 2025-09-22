@@ -43,11 +43,11 @@ Git, GitHub, RESTful APIs, Task Automation, Performance Optimization
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chandankamdi&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandankamdi&layout=compact&theme=dark)  
 
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)  
+- [LinkedIn](https://www.linkedin.com/in/chandankamdi)  
 - [Portfolio / Website] (Optional)
